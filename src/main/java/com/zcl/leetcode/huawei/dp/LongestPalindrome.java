@@ -1,9 +1,7 @@
 package com.zcl.leetcode.huawei.dp;
 
-import org.apache.commons.lang3.StringUtils;
-
 /**
- * 最长回文子串
+ * 最长回文子串：给你一个字符串 s，找到 s 中最长的回文子串
  *
  * @Author AlphaZcl
  * @Date 2024/7/30

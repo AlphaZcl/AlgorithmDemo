@@ -1,6 +1,5 @@
-package com.zcl.leetcode.huawei;
+package com.zcl.leetcode.huawei.dp;
 
-import com.zcl.leetcode.huawei.dp.LongestPalindrome;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -8,13 +7,13 @@ import org.junit.Test;
  * @Author AlphaZcl
  * @Date 2024/7/31
  **/
-public class Solution1Test {
+public class LongestPalindromeTest {
 
-    private LongestPalindrome solution1;
+    private com.zcl.leetcode.huawei.dp.LongestPalindrome solution1;
 
     @Before
     public void startUp() {
-        solution1 = new LongestPalindrome();
+        solution1 = new com.zcl.leetcode.huawei.dp.LongestPalindrome();
     }
 
     @Test
